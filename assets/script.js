@@ -1,5 +1,11 @@
 //Table 
+function tableCreate() {
+    var tablebase = document.createElement("<table>");
+    tablebase.setAttribute("class", "container");
+    document.body.appendChild(tablebase);
 
+    var timeblocks = ("container")
+}
 
 // Date Displayed at the top
 
